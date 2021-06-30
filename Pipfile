@@ -9,6 +9,9 @@ flake8 = "*"
 coverage = "*"
 
 [packages]
+click = "*"
+requests = "*"
+bln = "*"
 
 [requires]
 python_version = "3.9"

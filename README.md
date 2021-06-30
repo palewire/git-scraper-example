@@ -1,6 +1,6 @@
-# python-open-source-template
+# git-scraper-example
 
-A template for open-source Python software repositories
+A example of a git scraper that download, lints, commits and archives a data set
 
 ## Contributing
 
@@ -14,10 +14,4 @@ Run tests
 
 ```zsh
 make test
-```
-
-Ship new version to PyPI
-
-```zsh
-make ship
 ```
