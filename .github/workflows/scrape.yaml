@@ -58,3 +58,5 @@ jobs:
       - id: archive
         name: Archive
         run: pipenv run python src/archive.py
+        env:
+          BLN_TOKEN: ${{ secrets.BLN_TOKEN }}
