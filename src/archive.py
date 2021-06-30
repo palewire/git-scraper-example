@@ -14,12 +14,12 @@ def main():
     token = os.getenv("BLN_TOKEN")
     c = Client(token)
     item_list = c.everything()['effectiveProjectRoles']
-    project_name = "Active Iowa business entities"
+    project_name = "Iowa liquor stores"
     try:
         project = next(i['project'] for i in item_list if i['project']['name'] == project_name)
     except StopIteration:
         project = c.createProject(
-            "Iowa liquor stores",
+            project_name,
             contact="b@palewi.re",
             isOpen=True,
         )
