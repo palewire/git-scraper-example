@@ -27,31 +27,5 @@ pipenv install
 Run the downloader
 
 ```zsh
-make download
-```
-
-Add your [Big Local News token](https://github.com/biglocalnews/sdk/blob/master/py/tutorial.ipynb) to the environment
-
-```
-export BLN_TOKEN=YOURTOKENHERE
-```
-
-Run the archive
-
-```zsh
-make archive
-```
-
-## Contributing
-
-Install dependencies for development
-
-```zsh
-pipenv install --dev
-```
-
-Run tests
-
-```zsh
-make test
+pipenv run python src/download.py
 ```

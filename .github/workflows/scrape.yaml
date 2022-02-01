@@ -56,7 +56,9 @@ jobs:
         shell: bash
 
       - id: archive
-        name: Archive
-        run: pipenv run python src/archive.py
-        env:
-          BLN_TOKEN: ${{ secrets.BLN_TOKEN }}
+        name: Archive to biglocalnews.org
+        uses: biglocalnews/upload-files@v1
+        with:
+          api-key: ${{ secrets.BLN_API_KEY }}
+          project-id: ${{ secrets.BLN_PROJECT_ID }}
+          path: data/iowa-liquor-stores.csv
