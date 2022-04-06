@@ -12,32 +12,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - id: install-python
-        name: Install Python
-        uses: actions/setup-python@v2
+      - name: Install pipenv
+        run: pipx install pipenv
+
+      - uses: actions/setup-python@v2
         with:
-          python-version: 3.9
+          python-version: '3.9'
+          cache: 'pipenv'
 
-      - id: install-pipenv
-        name: Install pipenv
-        run: |
-          python -m pip install --upgrade --no-cache-dir pip
-          python -m pip install --no-cache-dir pipenv
-        shell: bash
-
-      - id: cache-pipenv
-        name: Cache pipenv
-        uses: actions/cache@v2
-        with:
-          path: ~/.local/share/virtualenvs
-          key: ${{ runner.os }}-pipenv-${{ hashFiles('Pipfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-pipenv-
-
-      - id: sync-pipfile
-        name: Sync pipfile
-        run: pipenv install --dev --python=3.9
-        shell: bash
+      - id: pipenv-install
+        name: Install Python dependencies
+        run: pipenv install --dev --python `which python`
 
       - id: download
         name: Download
