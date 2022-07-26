@@ -1,9 +1,13 @@
 Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 2681,Hy-Vee C-Store / Fairfield,A,1300 W Burlington,Fairfield,IA,52556,,07/01/2022
 4014,Wal-Mart 1732 / Denison,A,510 C Ave,Denison,IA,51442,,07/01/2022
+4694,Rina Mart LLC / Davenport,A,3815 West Kimberly Road,Davenport,IA,52806,POINT (-90.631358 41.561712),07/01/2022
+4794,Smokin' Joe's #17 Tobacco and Liquor Outlet,A,110 S Roosevelt Hwy 61,Burlington,IA,52601,POINT (-91.141203 40.809437),07/01/2022
 4986,218 Fuel Express & Chubby's Liquor,I,68 Monroe St,Floyd,IA,50435,POINT (-92.73738 43.122076),07/01/2022
-5201,Kwik Stop  #858  /  Dubuque,I,3340 JFK  Rd,Dubuque,IA,52001,,07/01/2022
+5219,Kirkwood Liquor & Tobacco,I,"300, Kirkwood Ave",Iowa City,IA,52240,POINT (-91.531628 41.649432),07/01/2022
+5214,Fas Mart #5148 / Cedar Rapids,A,550 Wilson Ave SW,Cedar Rapids,IA,52404,POINT (-91.676433 41.956073),07/01/2022
 5476,Eldridge Mart,I,209 E LeClaire Rd,Eldridge,IA,52748,POINT (-90.58154 41.654676),07/01/2022
+5629,The Ville,I,111 W Main St,Riceville,IA,50466,POINT (-92.555014 43.363838),07/01/2022
 5807,Casey's General Store #1028 / Middletown,A,75 Main St,Middletown,IA,52638,,07/01/2022
 5895,Rolfe Heartland,A,600 Broad St,Rolfe,IA,50581,POINT (-94.529348 42.812703),07/01/2022
 5929,D&T's / Odebolt,A,417 1st St,Odebolt,IA,51458,POINT (-95.255961 42.313396),07/01/2022
@@ -15,7 +19,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 2555,Hy-Vee Food Store / Keokuk,A,3111 Main,Keokuk,IA,52632,POINT (-91.403673 40.415303),07/01/2022
 6012,Casey's General Store #1893 / Mason City,A,1607 S Federal Ave,Mason City,IA,50401,POINT (-93.201052 43.135953),07/01/2022
 5131,Oasis,A,"1401, Buchanan St",Des Moines,IA,50316,POINT (-93.59934 41.598784),07/01/2022
-4794,Smokin' Joe's #17 Tobacco and Liquor Outlet,A,110 S Roosevelt Hwy 61,Burlington,IA,52601,POINT (-91.141203 40.809437),07/01/2022
 5396,Casey's General Store # 3512/ Indianola,A,301 E Trailridge Ave,Indianola,IA,50125,,07/01/2022
 5310,Crossroads of Algona,I,107 Hwy 18 W,Algona,IA,50511,POINT (-94.238753 43.082796),07/01/2022
 6267,Polk City Liquor / Polk City,A,201 North 3rd Street,Polk City,IA,50226,POINT (-93.712741 41.77284),07/01/2022
@@ -24,7 +27,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5147,Victor's Market,A,1001 3rd Street,Victor,IA,52347,POINT (-92.301206 41.730666),07/01/2022
 5529,Big 10 Mart,A,2100 JFK Rd,Dubuque,IA,52001,,07/01/2022
 5907,Martelle Store,I,400 S. Military Street,Martelle,IA,52305,POINT (-91.360879 42.020225),07/01/2022
-5219,Kirkwood Liquor & Tobacco,I,"300, Kirkwood Ave",Iowa City,IA,52240,POINT (-91.531628 41.649432),07/01/2022
 4310,Fareway Stores #502 / Cherokee,A,205 West Bluff St,Cherokee,IA,51012,POINT (-95.551866 42.75508),07/01/2022
 4781,Casey's General Store #3079 / Early,A,"2245, Us Hwy 71",Early,IA,50535,POINT (-95.147987 42.467332),07/01/2022
 5278,Crossroads of Spencer,I,1001 Grand Ave,Spencer,IA,51301,POINT (-95.145207 43.147815),07/01/2022
@@ -42,7 +44,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5922,Casey's General Store #3896 / Center Point,A,696 Grain Ln,Center Point,IA,52213,POINT (-91.777548 42.173697),07/01/2022
 5944,Cedar Rapids BP,A,2330 Wiley Blvd,Cedar Rapids,IA,52404,POINT (-91.725833 41.956137),07/01/2022
 5263,Bernie's Booze LLC,A,"950, West View Dr",Rock Valley,IA,51247,,07/01/2022
-9951,Wildcat Distilling,I,2652 235th St,Duncombe,IA,50532,POINT (-94.074806 42.448661),07/01/2022
 5843,Leaf Brothers Cigars / WDM,I,9500 University Ave #1101 Liquor Room,West Des Moines,IA,50266,POINT (-93.839439 41.600424),07/01/2022
 5444,Marshall Beer Wine Spirits,A,11 N 3rd Ave,Marshalltown,IA,50158,POINT (-92.908013 42.050162),07/01/2022
 5885,Casey's General Store #67 / Sumner,A,911 E 1st St,Sumner,IA,50674,POINT (-92.083935 42.847501),07/01/2022
@@ -65,6 +66,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 4638,GD Xpress / Davenport,A,4607 N Pine St,Davenport,IA,52806,POINT (-90.610249 41.567504),07/01/2022
 5650,The Depot Williamsburg,A,103 Highland St,Williamsburg,IA,52361,POINT (-92.00735 41.664796),07/01/2022
 5124,Price Chopper  /  Johnston,I,5440 NW  86th St,Johnston,IA,50131,POINT (-93.736516 41.659168),07/01/2022
+9951,Wildcat Distilling,I,2652 235th St,Duncombe,IA,50532,POINT (-94.074806 42.448661),07/01/2022
 4143,Bucky's,A,603  E HWY 24,Lawler,IA,52154,POINT (-92.14832 43.06722),07/01/2022
 5660,North Side Liquor & Tobacco / Dubuque,A,2013 Central Ave,Dubuque,IA,52001,POINT (-90.670219 42.511716),07/01/2022
 6315,Cornerstone Apothercary,A,1035 Court Avenue,Marengo,IA,52301,POINT (-92.070066 41.79904),07/01/2022
@@ -77,14 +79,12 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 9914,Werner Distilling,I,5520 190th St.,Holstein,IA,51025,POINT (-95.533015 42.428294),07/01/2022
 3013,Keith's Foods,I,207 E Locust St,Bloomfield,IA,52537,POINT (-92.412846 40.752691),07/01/2022
 9049,TYCOGA Vineyard & Winery,I,2585 195th St,DeWitt,IA,52742,POINT (-90.588386 41.89179),07/01/2022
-4694,Rina Mart LLC / Davenport,A,3815 West Kimberly Road,Davenport,IA,52806,POINT (-90.631358 41.561712),07/01/2022
 0001,Sazerac Comapny Inc,I,75 Remittance Dr Ste 3312,Chicago,IL,60675,,07/01/2022
 4973,Quillins Quality Foods West Union,A,"303, Hwy 150 N",West Union,IA,52175,POINT (-91.814402 42.965065),07/01/2022
 6144,Northside Liquor and Grocery / Mason City,A,1303 N Federal,Mason City,IA,50401,POINT (-93.201061 43.163663),07/01/2022
 4504,JIFFY EXPRESS #921 / INDIANOLA,A,311 North Jefferson,Indianola,IA,50125,,07/01/2022
 4189,Fareway Stores #594 / Manchester,A,109 East Marion St,Manchester,IA,52057,POINT (-91.457266 42.482169),07/01/2022
 4369,Kum & Go #28 / Norwalk,A,2991 Sunset Dr,Norwalk,IA,50211,POINT (-93.674221 41.496707),07/01/2022
-5629,The Ville,I,111 W Main St,Riceville,IA,50466,POINT (-92.555014 43.363838),07/01/2022
 5103,Curry's Express Mart,I,"4804, Hwy  61 South",Muscatine,IA,52761,,07/01/2022
 5768,Casey's General Store #1886 / Ottumwa,A,504 W Mary St,Ottumwa,IA,52501,POINT (-92.429217 40.994753),07/01/2022
 5762,Casey's General Store #1329 / Estherville,A,8 Central Ave,Estherville,IA,51334,POINT (-94.843561 43.401909),07/01/2022
@@ -115,7 +115,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 4760,Walgreens #07455 / Waterloo,A,111 W Ridgeway Ave,Waterloo,IA,50701,POINT (-92.357476 42.469401),07/01/2022
 5930,East Post Rd BP,I,1010 East Post Rd,Marion,IA,52302,POINT (-91.598281 42.020154),07/01/2022
 5406,Casey's General Store # 2918/ Coralville,A,2798 Commerce Dr.,Coralville,IA,52241,POINT (-91.610614 41.695822),07/01/2022
-5214,Fas Mart #5148 / Cedar Rapids,A,550 Wilson Ave SW,Cedar Rapids,IA,52404,POINT (-91.676433 41.956073),07/01/2022
 2614,Hy-Vee #3 Food & Drugstore / Davenport,A,1823 E Kimberly Rd,Davenport,IA,52807,POINT (-90.548919 41.556781),07/01/2022
 5917,Urbandale Liquor,A,6401 Douglas Ave. STE 1,Urbandale,IA,50322,POINT (-93.705683 41.629412),07/01/2022
 4392,KUM & GO #156 / Clive,I,15600 Hickman Rd,Clive,IA,50325,POINT (-93.834209 41.614732),07/01/2022
@@ -270,6 +269,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5593,Grandview Mart,A,714 Grandview Ave,Muscatine,IA,52761,POINT (-91.063161 41.409214),07/01/2022
 2513,Hy-Vee Food Store #2 / Iowa City,A,812 S 1st Ave,Iowa City,IA,52240,POINT (-91.501984 41.650954),07/01/2022
 6040,Hometown Foods / Traer,A,420 Second Street,Traer,IA,50675,POINT (-92.468086 42.193386),07/01/2022
+5201,Kwik Stop  #858  /  Dubuque,I,3340 JFK  Rd,Dubuque,IA,52001,,07/01/2022
 5386,Casey's General Store # 2494/ Eagle Grove,A,200 S Commercial Ave,Eagle Grove,IA,50533,POINT (-93.904488 42.662672),07/01/2022
 4509,AJ'S LIQUOR II,A,2515 Chamberlain,Ames,IA,50010,POINT (-93.65074 42.021461),07/01/2022
 5250,East Side Liquor and Tobacco,I,3804 Hubbell Ave,Des Moines,IA,50317,POINT (-93.541387 41.630882),07/01/2022
@@ -321,6 +321,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5698,Casey's #3746 / Grimes,A,1650 NE Beaver Brooke Blvd,Grimes,IA,50111,,07/01/2022
 4351,Kum & Go #301 / Clear Lake,A,2325 7th Ave N,Clear Lake,IA,50248,POINT (-93.359875 43.145315),07/01/2022
 3477,Sam's Club 6472 / Council Bluffs,A,3221 Manawa Centre Dr,Council Bluffs,IA,51501,POINT (-95.847312 41.225402),07/01/2022
+9904,RNDC,I,15920 Hickman Road Ste. 400 PMB 425,Clive,IA,50325,,07/01/2022
 3858,Harolds Jack N Jill / Davenport,I,6723 NW Blvd Unit 2,Davenport,IA,52806,POINT (-90.609747 41.589369),07/01/2022
 5439,Mt. Pleasant Fast Break,A,201 E. Washington Street,Mount Pleasant,IA,52641,POINT (-91.551598 40.965272),07/01/2022
 2528,Hy-Vee Food Store #3 / Des Moines,A,3221 SE 14th St,Des Moines,IA,50315,POINT (-93.596756 41.553941),07/01/2022
@@ -411,7 +412,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 4930,Casey's General Store #3251 / Boone,A,1303 SE MARSHALL ST,Boone,IA,50036,POINT (-93.872188 42.035107),07/01/2022
 5053,Cork & Bottle / Iowa City,I,"610, Eastbury Dr",Iowa City,IA,52245,POINT (-91.481157 41.668722),07/01/2022
 5861,Taylor Quik Pik - Council Bluffs,A,14151 Wabash Avenue,Council Bluffs,IA,51503,POINT (-95.817815 41.220341),07/01/2022
-9904,RNDC,I,15920 Hickman Road Ste. 400 PMB 425,Clive,IA,50325,,07/01/2022
 5128,Price Chopper  /  Beaver #1310,A,1819 Beaver Ave,Des Moines,IA,50310,POINT (-93.672995 41.610987),07/01/2022
 5515,Fine Liquor & Tobacco,A,821 Albia Rd Ste B,Ottumwa,IA,52501,POINT (-92.433678 41.008494),07/01/2022
 3918,Smokin' Joe's #1 Tobacco and Liquor Outlet,A,3120 Rockingham Rd,Davenport,IA,52802,POINT (-90.621612 41.510043),07/01/2022
@@ -637,6 +637,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5462,7Star Liquor & Tobacco Outlet,A,502 E Ave NW,Cedar Rapids,IA,52405,POINT (-91.680323 41.977958),07/01/2022
 4844,Iowa City Fast Break,A,"2580, Naples Ave",Iowa City,IA,52240,POINT (-91.570945 41.633288),07/01/2022
 5415,Prime Mart 7 / Waterloo,A,1309 Lafayette St,Waterloo,IA,50703,POINT (-92.3272 42.494092),07/01/2022
+5119,Corwith Farm Service,I,205 NW Elm St,Corwith,IA,50430,POINT (-93.957603 42.992918),07/01/2022
 5823,Casey's General Store #2431 / Sioux Center,A,8 7th St NE,Sioux Center,IA,51250,POINT (-96.175411 43.084309),07/01/2022
 3632,Wal-Mart 2004 / Dubuque,A,4200 Dodge St,Dubuque,IA,52003,POINT (-90.73647 42.489179),07/01/2022
 5004,Ida Grove Food Pride,A,200 Susan Lawrence Dr,Ida Grove,IA,51445,,07/01/2022
@@ -683,7 +684,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5594,Depot Norway,A,117 E Railroad St,Norway,IA,52318,POINT (-91.919915 41.902804),07/01/2022
 2841,CVS Pharmacy #8532 / Cedar Rapids,A,2711 Mount Vernon Rd,Cedar Rapids,IA,52403,POINT (-91.627468 41.976883),07/01/2022
 3808,Thriftway,I,304  4th St,La Porte City,IA,50651,POINT (-92.190524 42.316113),07/01/2022
-5119,Corwith Farm Service,I,205 NW Elm St,Corwith,IA,50430,POINT (-93.957603 42.992918),07/01/2022
 4161,Fareway Stores #950 / Iowa City,A,2530 Westwinds Dr,Iowa City,IA,52246,POINT (-91.575682 41.650827),07/01/2022
 6045,Kum & Go #3156 / Clive,A,15590 Hickman Rd,Clive,IA,50325,POINT (-93.833455 41.614719),07/01/2022
 6109,Moes Mart #11 / Sioux Center,A,402 N Main Ave,Sioux Center,IA,51250,POINT (-96.175585 43.08113),07/01/2022
@@ -1040,7 +1040,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5555,Sub Express & Gas,A,4307 W Locust St,Davenport,IA,52804,POINT (-90.637353 41.538148),07/01/2022
 2723,Hy-Vee Gas / Johnston,A,5902 Merle Hay Road,Johnston,IA,50322,POINT (-93.697741 41.667743),07/01/2022
 4420,KUM & GO #38 / OTTUMWA,I,534 CHURCH ST,Ottumwa,IA,52501,POINT (-92.418553 41.009435),07/01/2022
-5334,Mill St Liquor,I,107 N Mill St,Lake Mills,IA,50450,POINT (-93.535032 43.419668),07/01/2022
 2592,Hy-Vee Drugstore / Marshalltown,I,1712 S Center  St,Marshalltown,IA,50158,POINT (-92.912515 42.027913),07/01/2022
 5227,Flaming Hot Fish and Chicken LLC,I,"320, N  4th St",Clinton,IA,52732,POINT (-90.193226 41.848296),07/01/2022
 4300,Fareway Stores #625 / Oskaloosa,A,311  3rd Ave W,Oskaloosa,IA,52577,POINT (-92.648318 41.292613),07/01/2022
@@ -1086,7 +1085,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5479,Casey's General Store #3534 / Clermont,A,74 Mill Street,Clermont,IA,52135,POINT (-91.659241 42.996807),07/01/2022
 5786,Casey's General Store #2779 / Coralville,A,1987 2nd St,Coralville,IA,52241,POINT (-91.590813 41.679197),07/01/2022
 5362,Crossroads Wine & Spirits LLC,A,117 Iowa Ave,Dunlap,IA,51529,POINT (-95.602428 41.854492),07/01/2022
-6178,Hy-Vee Dollar Fresh / Maquoketa,A,102 W. Carlisle,Maquoketa,IA,52060,,07/01/2022
 6056,Casey's General Store #2770 / Marion,A,2020 7th Ave,Marion,IA,52302,POINT (-91.590146 42.03327),07/01/2022
 6168,Brew Oil #32 / Spencer,A,15 Grand Ave,Spencer,IA,51301,POINT (-95.144439 43.13837),07/01/2022
 4988,Happy's Wine & Spirits,A,5925 University Ave,Cedar Falls,IA,50613,POINT (-92.429644 42.512762),07/01/2022
@@ -1132,6 +1130,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5203,Kimmes Coon Rapids Country Store #12,A,"516, Highway 141",Coon Rapids,IA,50058,POINT (-94.678386 41.865917),07/01/2022
 5438,Madame Mary,I,123 Main St #B,Templeton,IA,51463,POINT (-94.943119 41.918833),07/01/2022
 6183,BP to Go - 1120 / Cedar Rapids,I,1120 Old Marion Road,Cedar Rapids,IA,52402,POINT (-91.65192 42.020655),07/01/2022
+5334,Mill St Liquor,I,107 N Mill St,Lake Mills,IA,50450,POINT (-93.535032 43.419668),07/01/2022
 2641,Hy-Vee Drugstore / Council Bluffs,I,757 W Broadway,Council Bluffs,IA,51501,POINT (-95.855054 41.261673),07/01/2022
 5142,Smokin' Joe's #13 Tobacco and Liquor Outlet,A,2315 Mt Vernon Rd SE,Cedar Rapids,IA,52303,,07/01/2022
 5243,New Star / Lafayette / Waterloo,I,1309 Lafayette St,Waterloo,IA,50703,POINT (-92.3272 42.494092),07/01/2022
@@ -1582,7 +1581,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 4641,Kum & Go #573 / SE 14th DM,A,5830 SE 14th St,Des Moines,IA,50315,POINT (-93.596875 41.533413),07/01/2022
 4933,River Mart,A,2107 Agency St,Burlington,IA,52601,POINT (-91.129659 40.814541),07/01/2022
 4717,Walgreens #05512 / Bettendorf,A,3425 Middle Rd,Bettendorf,IA,52722,POINT (-90.485404 41.550721),07/01/2022
-5596,Pirillo Beverage,I,1011 S Frederick,Oelwein,IA,50662,POINT (-91.913571 42.663529),07/01/2022
 4306,Northside One Stop / Hampton,A,1208  4th St NE,Hampton,IA,50441,POINT (-93.202452 42.753008),07/01/2022
 4663,Casey's General Store #3077 / Peosta,A,236 Peosta St,Peosta,IA,52068,POINT (-90.85041 42.443954),07/01/2022
 5154,Lake Park Foods,I,"201, Market St",Lake Park,IA,51347,POINT (-95.32133 43.454834),07/01/2022
@@ -1626,13 +1624,14 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 6254,Hy-Vee Fast and Fresh / Marion,A,2790 7th Avenue,Marion,IA,52302,POINT (-91.582225 42.033187),07/01/2022
 5738,Casey's General Store #3291,A,5110 HWY 13 N,Coggon,IA,52218,POINT (-91.525344 42.274821),07/01/2022
 3876,Affiliated Foods Of Manson,I,1101 MAIN ST PO BOX 535,Manson,IA,50563,POINT (-94.534319 42.530636),07/01/2022
-5631,Marion Market & Cafe',A,,,,,,07/01/2022
+6178,Hy-Vee Dollar Fresh / Maquoketa,A,102 W. Carlisle,Maquoketa,IA,52060,,07/01/2022
 5283,Yesway Store # 10026/ Mason City,A,1303 4th St SW,Mason City,IA,50401,POINT (-93.221539 43.148339),07/01/2022
 6163,Casey's General Store #6116 / Council Bluffs,A,15 N 16th St,Council Bluffs,IA,51501,POINT (-95.867464 41.262352),07/01/2022
 6214,Casey's #3934 / Ankeny,A,1515 SE CORPORATE WOODS DR,Ankeny,IA,50021,,07/01/2022
 5404,The Depot Oxford LLC,A,220 N Augusta Ave,Oxford,IA,52322,POINT (-91.790636 41.724565),07/01/2022
 5510,Kum & Go #1443 / Williamsburg,A,2177 M Ave,Williamsburg,IA,52361,POINT (-92.066146 41.690902),07/01/2022
 6025,Casey's General Store #3030 / Storm Lake,A,825 Flindt Dr,Storm Lake,IA,50588,POINT (-95.190566 42.646522),07/01/2022
+5631,Marion Market & Cafe',A,,,,,,07/01/2022
 4712,Walgreens #11942 / Dubuque,A,345 E 20th St,Dubuque,IA,52001,POINT (-90.667142 42.51203),07/01/2022
 5984,Casey's General Store #3214 / Oskaloosa,A,413 A Ave W,Oskaloosa,IA,52577,POINT (-92.649129 41.296225),07/01/2022
 5012,Bluejay Market,I,"2810, Willis Ave",Perry,IA,50220,POINT (-94.081127 41.838488),07/01/2022
@@ -1901,6 +1900,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 4118,Lake View Redemption Center,I,502 5th Street,Lake View,IA,51450,POINT (-95.051532 42.307787),07/01/2022
 5680,Gasland N 8th St / Burlington,A,1204 N 8th St,Burlington,IA,52601,POINT (-91.105445 40.820249),07/01/2022
 4573,Casey's General Store #1330 / Hamburg,A,1211 Washington St,Hamburg,IA,51640,POINT (-95.654604 40.605217),07/01/2022
+5596,Pirillo Beverage,I,1011 S Frederick,Oelwein,IA,50662,POINT (-91.913571 42.663529),07/01/2022
 6243,Hy-Vee Dollar Fresh / Independence,A,1975 3 Elms Road,Independence,IA,50644,POINT (-91.886923 42.456588),07/01/2022
 5068,Tobacco Shop / Arnolds Park,A,612 S Highway 71,Arnolds Park,IA,51331,POINT (-95.140274 43.361577),07/01/2022
 5040,Wilton Express,I,1300 Nicolaus St,Wilton,IA,52778,POINT (-91.034885 41.589964),07/01/2022
@@ -2132,6 +2132,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 3698,Ingersoll Wine Merchants,A,1300  50th St,West Des Moines,IA,50266,POINT (-93.77117 41.591131),07/01/2022
 5285,Crossroads of Humboldt,I,411 13th Street,Humboldt,IA,50548,POINT (-94.226844 42.726183),07/01/2022
 5151,Brew Ida Grove,A,"500, Hwy 175",Ida Grove,IA,51445,,07/01/2022
+4937,ROCSTOP,A,1310 W Sheridan Ave,Shenandoah,IA,51601,POINT (-95.38464 40.765869),07/01/2022
 4642,Liquor and Tobacco Outlet / Univ Ave Waterloo,A,2844 University Ave,Waterloo,IA,50701,POINT (-92.382972 42.498354),07/01/2022
 5911,Old Fire Liquor / Buffalo Center,A,113 1st St NW,Buffalo Center,IA,50424,POINT (-93.947595 43.386755),07/01/2022
 4468,CIRCLE K #4706600 / MUSCATINE,A,802 Cypress St,Muscatine,IA,52761,POINT (-91.041126 41.431583),07/01/2022
@@ -2177,6 +2178,7 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 4449,Kum & Go #121 / Urbandale,A,12041 Douglas Pkwy,Urbandale,IA,50322,POINT (-93.782995 41.629623),07/01/2022
 3912,Smokin' Joe's #14 Tobacco and Liquor Outlet,A,225 Edgewood Rd. NW,Cedar Rapids,IA,52405,POINT (-91.715944 41.973737),07/01/2022
 4513,Casey's General Store #1144 / Polk City,A,1100 S 3rd St,Polk City,IA,50226,POINT (-93.717066 41.763975),07/01/2022
+3676,T and M Foods,I,107 E Traer,Greene,IA,50636,POINT (-92.801846 42.895914),07/01/2022
 4508,Casey's General Store #2877 / Spencer,A,805 Grand Ave S,Spencer,IA,51301,POINT (-95.143866 43.12977),07/01/2022
 9013,Iowa Distilling Company,I,4349 Cumming Ave.,Cumming,IA,50061,POINT (-93.762456 41.483192),07/01/2022
 6230,Brew #1 West Lake General Store / Storm Lake,A,6087 Iowa 110,Storm Lake,IA,50588,POINT (-95.239509 42.634202),07/01/2022
@@ -2448,7 +2450,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 6244,Kwik Star #1146 / Cedar Rapids,A,4201 16th Avenue Southwest,Cedar Rapids,IA,52404,POINT (-91.727174 41.96368),07/01/2022
 5074,New Pioneer Food Co-op  / Center Poi,I,3338 Center Point Rd NE,Cedar Rapids,IA,52402,POINT (-91.664128 42.012654),07/01/2022
 4228,Fareway Stores #462 / Vinton,A,501 A Ave,Vinton,IA,52349,POINT (-92.025603 42.166166),07/01/2022
-4937,ROCSTOP,A,1310 W Sheridan Ave,Shenandoah,IA,51601,POINT (-95.38464 40.765869),07/01/2022
 3934,Wal-Mart 1509 / Maquoketa,A,103 E Carlisle,Maquoketa,IA,52060,POINT (-90.66292 42.04869),07/01/2022
 5341,JJ's on Johnson,I,235 Edgewood Rd NW,Cedar Rapids,IA,52405,POINT (-91.715931 41.974234),07/01/2022
 4600,Kum & Go #207 / Hubbell DM,I,4200 E Hubbell Ave,Des Moines,IA,50317,POINT (-93.53166 41.635956),07/01/2022
@@ -2541,7 +2542,6 @@ Store,Name,Store Status,Address,City,State,Zip Code,Store Address,Report Date
 5492,Heartland Market,A,319 Court St,Rockwell City,IA,50579,POINT (-94.632453 42.394636),07/01/2022
 4980,Pronto BP,A,7305 LaPorte rd.,Washburn,IA,50702,POINT (-92.264665 42.409095),07/01/2022
 5887,Casey's General Store #2392 / Johnston,A,5340 NW Beaver Dr,Johnston,IA,50131,POINT (-93.684686 41.657688),07/01/2022
-3676,T and M Foods,I,107 E Traer,Greene,IA,50636,POINT (-92.801846 42.895914),07/01/2022
 5272,Dyersville Liquor Mart,I,"1021, 2nd Avenue",Dyersville,IA,52040,POINT (-91.112376 42.482481),07/01/2022
 4361,Quik Trip #538 / NW 2nd / DSM,A,4575 NW 2nd,Des Moines,IA,50313,POINT (-93.619906 41.643664),07/01/2022
 5375,Casey's General Store # 3518/ Des Moines,A,1907 Army Post Rd,Des Moines,IA,50315,POINT (-93.641574 41.526538),07/01/2022
